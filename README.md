@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Uttam Deore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Aspiring Full Stack Web Developer from Nashik,Maharastra</h3>
 
 - 🌱 I’m currently learning **react**
 
